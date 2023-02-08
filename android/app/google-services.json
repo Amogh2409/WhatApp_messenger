@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "788722745663",
+    "project_id": "whatsapp-messenger24",
+    "storage_bucket": "whatsapp-messenger24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788722745663:android:4263515ff8ee1cb825938a",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788722745663-4ta431ig9treqf84qrra8tpofhj4p7jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjbqPnwm2Xp8LhIoywHrH2c4wzf7v8S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788722745663-4ta431ig9treqf84qrra8tpofhj4p7jb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788722745663-a3v6rh0sf8bcthgtjcsqm0784isvu3qm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsappMessenger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
