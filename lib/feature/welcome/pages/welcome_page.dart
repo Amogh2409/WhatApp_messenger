@@ -3,7 +3,7 @@ import 'package:whatsapp_messenger/common/extension/custom_theme_extension.dart'
 import 'package:whatsapp_messenger/common/routes/routes.dart';
 
 import '../../../common/widgets/custom_elevated_button.dart';
-import '../widgets/language_button.dart';
+// import '../widgets/language_button.dart';
 import '../widgets/privacy_and_terms.dart';
 
 class WelcomePage extends StatelessWidget {
@@ -54,7 +54,7 @@ class WelcomePage extends StatelessWidget {
                 text: 'AGREE AND CONTINUE',
               ),
               const SizedBox(height: 50),
-              const LanguageButton(),
+              
             ],
           ))
         ],

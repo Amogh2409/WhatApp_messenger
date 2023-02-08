@@ -49,6 +49,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '788722745663',
     projectId: 'whatsapp-messenger24',
     authDomain: 'whatsapp-messenger24.firebaseapp.com',
+    databaseURL: 'https://whatsapp-messenger24-default-rtdb.firebaseio.com',
     storageBucket: 'whatsapp-messenger24.appspot.com',
     measurementId: 'G-62BKBVH1K5',
   );
@@ -58,6 +59,7 @@ class DefaultFirebaseOptions {
     appId: '1:788722745663:android:4263515ff8ee1cb825938a',
     messagingSenderId: '788722745663',
     projectId: 'whatsapp-messenger24',
+    databaseURL: 'https://whatsapp-messenger24-default-rtdb.firebaseio.com',
     storageBucket: 'whatsapp-messenger24.appspot.com',
   );
 
@@ -66,6 +68,7 @@ class DefaultFirebaseOptions {
     appId: '1:788722745663:ios:76064a324276021025938a',
     messagingSenderId: '788722745663',
     projectId: 'whatsapp-messenger24',
+    databaseURL: 'https://whatsapp-messenger24-default-rtdb.firebaseio.com',
     storageBucket: 'whatsapp-messenger24.appspot.com',
     iosClientId: '788722745663-a3v6rh0sf8bcthgtjcsqm0784isvu3qm.apps.googleusercontent.com',
     iosBundleId: 'com.example.whatsappMessenger',
@@ -76,6 +79,7 @@ class DefaultFirebaseOptions {
     appId: '1:788722745663:ios:76064a324276021025938a',
     messagingSenderId: '788722745663',
     projectId: 'whatsapp-messenger24',
+    databaseURL: 'https://whatsapp-messenger24-default-rtdb.firebaseio.com',
     storageBucket: 'whatsapp-messenger24.appspot.com',
     iosClientId: '788722745663-a3v6rh0sf8bcthgtjcsqm0784isvu3qm.apps.googleusercontent.com',
     iosBundleId: 'com.example.whatsappMessenger',

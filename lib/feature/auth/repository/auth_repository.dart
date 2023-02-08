@@ -53,11 +53,7 @@ class AuthRepository {
       if (isConnected) {
         await realtime.ref().child(auth.currentUser!.uid).update(online);
       } else {
-        realtime
-            .ref()
-            .child(auth.currentUser!.uid)
-            .onDisconnect()
-            .update(offline);
+        realtime.ref().child(auth.currentUser!.uid).onDisconnect().update(offline);
       }
     });
   }
